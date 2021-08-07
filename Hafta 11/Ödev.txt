@@ -1,0 +1,4 @@
+Ödevler:
+1. Kodlayıcı  - “Ahmet BAYRaKtAR” şeklinde girilen ad soyad için, soyadının sadece ilk harfini büyük harfe diğer harflerini küçük harfe çeviren programı yazalım.
+2. Kodlayıcı - Parametre olarak gönderilen katar içerisinde parametre olarak gönderilen karakteri sayan fonksiyonu yazınız.
+3. Kodlayıcı - Dosyadan okuduğunuz sayıların toplamını ekrana yazınız.
